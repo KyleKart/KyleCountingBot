@@ -1,0 +1,25 @@
+{
+
+  "name": "Counting Bot Kyle",
+
+  "description": "A counting bot!",
+
+  "version": "1.0.0",
+
+  "main": "CountingBot.js",
+
+  "scripts": {
+
+    "start": "node CountingBot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "12.4.1",
+
+    "request": "2.81.0"
+
+  }
+
+}
