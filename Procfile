@@ -1,0 +1,1 @@
+worker: node CountingBot.js
